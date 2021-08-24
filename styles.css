@@ -13,6 +13,7 @@ body {
     justify-content: center;
     height: 100vh;
     font-family: 'Lato', sans-serif;
+    margin: 0;
 }
 
 .movie-container {
