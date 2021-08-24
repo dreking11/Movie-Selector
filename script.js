@@ -28,6 +28,7 @@ function updateSelectedCount() {
   total.innerText = selectedSeatsCount * ticketPrice;
   
   setMovieData(movieSelect.selectedIndex, movieSelect.value);
+  console.log(seatsIndex);
 }
 
 // Get data from localstorage and populate UI
